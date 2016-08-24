@@ -1,0 +1,6 @@
+---
+# defaults file for rails-unicorn
+app_name: demo
+unicorn_workers: 2
+unicorn_timeout: 15
+
